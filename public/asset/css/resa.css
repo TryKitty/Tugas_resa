@@ -1,0 +1,54 @@
+.bg-cofee {
+    background-color: #967259;
+    color: whitesmoke;
+}
+.bg-cofee:hover {
+    color: aliceblue;
+}
+
+.bg-sidebar {
+    background-color: #ECE0D1;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+.hr {
+    color: black;
+}
+.sidebar {
+    font-size: medium;
+    font-weight: bolder;
+    text-align: left;
+    color: #967259;
+    background-color: whitesmoke;
+
+}
+.sidebar:hover{
+    background-color:#967259;
+    color: whitesmoke;
+}
+.p-caption {
+    font-weight: bold;
+    color: white;
+
+}
+.table-resa{
+    color: whitesmoke;
+    background-color: #ECE0D1;
+}
+.active {
+    background-color: #967259;
+}
+
+.sweat-alert {
+    background-color: #967259;
+}
+
+body {
+overflow: hidden;
+}
+/* .btn-outline-secondary:hover {
+background-color: #967259;
+color: whitesmoke;
+} */
